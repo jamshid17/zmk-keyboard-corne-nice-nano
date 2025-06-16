@@ -1,1 +1,1 @@
-My zmk configs
+My zmk configs with nano
